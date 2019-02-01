@@ -2,9 +2,9 @@
   "name": "bytetech",
   "version": "2.1.0",
   "description": "-- AWESOMENESS --",
-  "main": "bot.js",
+  "main": "shard.js",
   "scripts": {
-    "start": "node bot.js"
+    "start": "shard bot.js"
   {
   "dependencies": {
     "and": "0.0.3",
